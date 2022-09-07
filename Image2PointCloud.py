@@ -1,5 +1,3 @@
-#from xmlrpc.client import _iso8601_format
-from socket import IPPROTO_IPV4
 from PIL.ExifTags import TAGS
 import time
 from datetime import datetime
